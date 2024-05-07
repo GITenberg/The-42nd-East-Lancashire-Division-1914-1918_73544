@@ -1,0 +1,26 @@
+_repo: The-42nd-East-Lancashire-Division-1914-1918_73544
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gibbon, Frederick P.
+    alias: Gibbon, F. P. (Frederick P.)
+    gutenberg_agent_id: '41250'
+    url: http://www.gutenberg.org/2009/agents/41250
+description: ''
+gutenberg_issued: '2024-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73544'
+language: en
+pgterms:marc905: 20190113031230gibbon
+pgterms:marc906: '1920'
+pgterms:marc907: GB
+production_note: Brian Coe and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bGeorge Newnes, Ltd., $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The 42nd (East Lancashire) Division 1914-1918
+url: http://www.gutenberg.org/ebooks/73544
