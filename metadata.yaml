@@ -1,5 +1,8 @@
 _repo: The-42nd-East-Lancashire-Division-1914-1918_73544
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73544-h/images/cover-deco.jpg
 creator:
   author:
     agent_name: Gibbon, Frederick P.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '41250'
     url: http://www.gutenberg.org/2009/agents/41250
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73544#The-42nd-East-Lancashire-Division-1914-1918
 gutenberg_issued: '2024-05-05'
 gutenberg_type: Text
 identifiers:
